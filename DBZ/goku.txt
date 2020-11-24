@@ -1,0 +1,4 @@
+FINAL PROJECT CS50
+My Final Project is a demonstration of what I learned in the games track of cs50.The game I created is basically an updated version of the Mario game we were taught to create.The map in Goku’s Adventure is bigger.The character’s pixel size is bigger and hence it was challenging to fit the character according to the tile sizes.I created my own sprite i.e. goku using various tools and also edited upon the spritesheet provided by the faculty to improve upon the game’s feel.I’ll improve the game as I learn more about this field.In the game we basically use ‘w’, ‘s’, ‘a’ and ‘d’ to travel across the map to finally reach the flag where the ‘you win’ sign is shown.You can restart the game using ‘spacebar’ once you win.If you fall into pits the game restarts automatically.PROJECT NAME: GOKU'S ADVENTURE
+CREATOR'S NAME : RUDRO GANGULY
+COUNTRY : INDIA
